@@ -1,0 +1,25 @@
+{
+"products" : [
+{"id":1,"name":"Squirrel, european red","category":"Fuscia"},
+{"id":2,"name":"Weaver, sociable","category":"Aquamarine"},
+{"id":3,"name":"Dove, galapagos","category":"Turquoise"},
+{"id":4,"name":"Golden eagle","category":"Violet"},
+{"id":5,"name":"Blue wildebeest","category":"Pink"},
+{"id":6,"name":"Woodpecker, downy","category":"Violet"},
+{"id":7,"name":"Frogmouth, tawny","category":"Fuscia"},
+{"id":8,"name":"Peccary, collared","category":"Puce"},
+{"id":9,"name":"Bear, grizzly","category":"Maroon"},
+{"id":10,"name":"Cheetah","category":"Orange"},
+{"id":11,"name":"Gull, lava","category":"Puce"},
+{"id":12,"name":"Arctic ground squirrel","category":"Mauv"},
+{"id":13,"name":"Cat, jungle","category":"Turquoise"},
+{"id":14,"name":"Squirrel, thirteen-lined","category":"Indigo"},
+{"id":15,"name":"Monkey, rhesus","category":"Purple"},
+{"id":16,"name":"Eastern cottontail rabbit","category":"Pink"},
+{"id":17,"name":"Horned puffin","category":"Fuscia"},
+{"id":18,"name":"Plover, blacksmith","category":"Aquamarine"},
+{"id":19,"name":"Common turkey","category":"Turquoise"},
+{"id":20,"name":"Eagle, african fish","category":"Purple"}
+]
+
+}
